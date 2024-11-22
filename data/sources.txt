@@ -1,0 +1,9 @@
+Istat:
+	Pernottamenti in Italia e regione di destinazione 2019-2023: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_TURNOT_CAPI/IT1,68_357_DF_DCCV_TURNOT_CAPI_1,1.0
+	Spesa media: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_2,1.0
+	Viaggi in totale: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_1,1.0
+	Spese per alloggi: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_3,1.0
+	Vacanza per mesi: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_CHARACT_CAPI/IT1,68_698_DF_DCCV_VIAGGI_CHARACT_CAPI_9,1.1
+	Mezzi di spostamento: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_CHARACT_CAPI/IT1,68_698_DF_DCCV_VIAGGI_CHARACT_CAPI_3,1.0
+	Tipologie di turismo: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_CAPI_2/IT1,68_1221_DF_DCCV_VIAGGI_CAPI_2_1,1.0
+	Persone non andate in vacanza: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_TURANN_NO_TURAN_CAPI/IT1,68_161_DF_DCCV_TURANN_NO_TURAN_CAPI_1,1.0
