@@ -1,1 +1,5 @@
 Pernottamenti in Italia e regione di destinazione 2019-2023: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_TURNOT_CAPI/IT1,68_357_DF_DCCV_TURNOT_CAPI_1,1.0
+Spesa media: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_2,1.0
+Viaggi in totale: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_1,1.0
+Spese per alloggi: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_3,1.0
+Vacanza per mesi: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_CHARACT_CAPI/IT1,68_698_DF_DCCV_VIAGGI_CHARACT_CAPI_9,1.1
