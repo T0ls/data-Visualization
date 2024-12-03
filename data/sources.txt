@@ -11,7 +11,6 @@ Istat:
 	Tipo di località e paese di residenza: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/SER_TOURISM/DCSC_TUR_OCCYEAR/IT1,122_54_DF_DCSC_TUR_10,1.0
 	Tipo di località: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/SER_TOURISM/DCSC_TUR_OCCMONTH/IT1,122_54_DF_DCSC_TUR_6,1.0
 
-
 Eurostat:
 	Persons participating in tourism for personal purposes by duration of the stay and destination: https://ec.europa.eu/eurostat/databrowser/view/tour_dem_totot/default/table?lang=en&category=tour.tour_dem.tour_dem_to
 	Nights spent at tourist accommodation establishments - monthly data: https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nim/default/table?lang=en&category=tour.tour_indm
