@@ -1,14 +1,6 @@
 Istat:
-	Spesa media: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_2,1.0
-	Spese per alloggi: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_SPESE_CAPI/IT1,68_265_DF_DCCV_VIAGGI_SPESE_CAPI_3,1.0
-	Vacanza per mesi: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_CHARACT_CAPI/IT1,68_698_DF_DCCV_VIAGGI_CHARACT_CAPI_9,1.0
-	Mezzi di spostamento: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_CHARACT_CAPI/IT1,68_698_DF_DCCV_VIAGGI_CHARACT_CAPI_3,1.0
-	Tipologie di turismo: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_VIAGGI_CAPI_2/IT1,68_1221_DF_DCCV_VIAGGI_CAPI_2_1,1.0
-	Persone non andate in vacanza: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0830COM,1.0/COM_TRIPS/DCCV_TURANN_NO_TURAN_CAPI/IT1,68_161_DF_DCCV_TURANN_NO_TURAN_CAPI_1,1.0
-
 	Arrivi, presenze, permanenza media: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/SER_TOURISM/DCSC_TUR_INDMOTH/IT1,122_54_DF_DCSC_TUR_13,1.0
 	Residenti per regione di origine: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/SER_TOURISM/DCSC_TUR_OCCYEAR/IT1,122_54_DF_DCSC_TUR_8,1.0
-	Per regione e per residenza del cliente: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/SER_TOURISM/DCSC_TUR_HOTELIND/IT1,122_54_DF_DCSC_TUR_11,1.0
 	Tipo di località e paese di residenza: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/SER_TOURISM/DCSC_TUR_OCCYEAR/IT1,122_54_DF_DCSC_TUR_10,1.0
 	Tipo di località: https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/SER_TOURISM/DCSC_TUR_OCCMONTH/IT1,122_54_DF_DCSC_TUR_6,1.0
 
