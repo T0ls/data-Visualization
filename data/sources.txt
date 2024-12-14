@@ -9,3 +9,6 @@ Istat Gen:
 
 Ministero turismo:
 	https://www.ministeroturismo.gov.it/dati-e-statistiche/
+
+Titoli giornale:
+	https://centrostudituristicifirenze.it/news/rassegna-stampa/rassegna-stampa-2020/
